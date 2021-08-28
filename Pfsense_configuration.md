@@ -41,7 +41,7 @@
 # Rule Separators
 + Rule separators are used to separate the rule, this will group the rules into small groups, which makes the rules look neat and nice.
 
-![[Pasted image 20210804130009.png]]
+![image1][image1.png]
 
 + In order to create a rule separator:
 	+ 1. Open the firewall rule tab.
@@ -55,10 +55,10 @@
 # Tracking Firewall Rule Changes
 + Whenever we make change to the rule, there should always be a update board at the very end of the rule editing screen, which showcases the changes of rules.
 
-![[Pasted image 20210804130441.png]]
+![image2][image2.png]
 
 
 <hr>
 
 # EVE-NG Firewall Example configuration
-![[Pasted image 20210804134539.png]]
+![image3][image3.png]]
